@@ -31,7 +31,7 @@ body{
    
     animation: mymove 3s infinite;
     width: 700px;
-    height: 1200px;
+    height: 1300px;
     background: transparent;
     border: 2px solid rgba(0, 0, 0, 0.267);
     backdrop-filter: blur(20px);
